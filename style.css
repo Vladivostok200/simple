@@ -13,6 +13,10 @@ li {
     font-size: 14px;
 }
 
+.headerCont  {
+    height: 100%;
+}
+
 @media (max-width: 768px) {
     .header a {
         display: flex;
@@ -198,5 +202,13 @@ li {
 
 .twoCarsSale .xc40 .xc60 h6 {
     font-size: 14px;
+}
+
+.imgInsideCar {
+    height: 700px;
+    background-image: url(https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/img/three-callouts/homepage-whyvolvo-desktop-16x9.jpg?iar=0&w=1920);
+    background-size: cover;
+    background-position: 100%;
+    width: 86%;
 }
 
